@@ -1,6 +1,5 @@
 node_modules/
 yarn.lock
 package-lock.json
-docs/.vitepress/cache/
-docs/.vitepress/cache/deps/
+docs/.vitepress/cache/*
 .vscode
