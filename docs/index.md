@@ -3,17 +3,16 @@
 layout: home
 
 hero:
-  name: "Franklin's Zoom"
-  text: "A space for personal free play"
-  tagline: My great project tagline
+  name: "Franklin的个人空间"
+  text: ""
+  tagline: 
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: 个人介绍
+      link: /personal-profile
     - theme: alt
       text: API Examples
       link: /api-examples
-
 features:
   - title: Feature A
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -23,3 +22,4 @@ features:
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
+---
