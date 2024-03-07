@@ -11,15 +11,14 @@ hero:
       text: 个人介绍
       link: /personal-profile
     - theme: alt
-      text: API Examples
+      text: 文档
       link: /api-examples
+      
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
----
-
+  - title: 全栈工程师
+    details: 技术栈：Vue, React, TS, Java
+  - title: 深耕可视化
+    details: 相关库：pixi.js, fabric.js, echarts.js（zrender）, d3.js
+  - title: 新探索
+    details: web3 Next.js
 ---

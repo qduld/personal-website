@@ -8,9 +8,17 @@ hero:
   tagline: My great project tagline
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Personal Profile
+      link: /personal-profile
     - theme: alt
-      text: API Examples
+      text: Documents
       link: /api-examples
+
+features:
+  - title: Full Stack Engineer
+    details: Technology Stack：Vue, React, TS, Java
+  - title: Deep Work in Visualization
+    details: Related libraries：pixi.js, fabric.js, echarts.js (zrender), d3.js
+  - title: New Explorations
+    details: web3 Next.js
 ---
