@@ -5,15 +5,15 @@ layout: home
 hero:
   name: "Franklin的个人空间"
   text: ""
-  tagline: 
+  tagline:
   actions:
     - theme: brand
       text: 个人介绍
       link: /personal-profile
     - theme: alt
       text: 文档
-      link: /api-examples
-      
+      link: /web3
+
 features:
   - title: 全栈工程师
     details: 技术栈：Vue, React, TS, Java

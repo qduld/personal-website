@@ -12,7 +12,7 @@ hero:
       link: /personal-profile
     - theme: alt
       text: Documents
-      link: /api-examples
+      link: /web
 
 features:
   - title: Full Stack Engineer
