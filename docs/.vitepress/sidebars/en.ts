@@ -5,6 +5,6 @@ export const sidebar = [
   },
   {
     text: "Documents",
-    items: [{ text: "web3", link: "en/web" }],
+    items: [{ text: "web3", link: "en/web3" }],
   },
 ];
